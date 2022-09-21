@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Header
+![Header](https://github.com/copihendo/copihendo/blob/main/assets/header.jpeg)
 
 About me
 
