@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Header](https://github.com/copihendo/copihendo/blob/main/assets/header.jpeg)
+![Header](https://github.com/copihendo/copihendo/blob/main/assets/header2.jpg)
 
 About me
 R&D Electrical Engineering. Currently work witk fotomask litography in company "NM-Tech". Before that three years of experience in NXP in PDK. Got a master's degree Electrical Engineering of electronics and nanoelectronics. Lead scientific activities on the topic of thermal studies of microwave structures: was engaged in computer modeling. Have scientific publications in international journals. Studied at the international school of programming Ecole_42. Ready to relocate.
